@@ -1,0 +1,8 @@
+-Tên tiếng Việt: Sắp xếp chọn 
+-Nguyên lí: 
+    +Duyệt từ đầu đến phần tử "kế" cuối 
+    +Tìm phần tử nhỏ nhất, bắt đầu từ phần tử kế bên
+    +Đổi chỗ phần tử nhỏ nhất đó với phần tử đang duyệt 
+    +Tiếp tục đến hết
+
+-Độ phức tạp: O(n^2)

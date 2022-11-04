@@ -1,0 +1,8 @@
+-Tên tiếng Việt: sắp xếp chèn 
+
+*Cho mảng A gồm n phần tử
+
+-Ý tưởng:
+    +Xem như A[0] là phần tử đã được sắp xếp rồi 
+    +Duyệt từ A[1] đến A[n-1]
+    +Tìm cách chèn những phần tử đó vào phần được sắp xếp trong mảng 

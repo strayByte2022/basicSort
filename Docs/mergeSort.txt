@@ -1,0 +1,13 @@
+-Tên tiếng Việt: sắp xếp trộn 
+-Ý tưởng: chia mảng thành 2 mảng con, xếp 2 mảng và trộn lại theo đúng thứ tự
+
+-Giả sử left và right là phần tử đầu và cuối mảng 
+
+-Bước: 
+*Khi mà mảng còn có thể chia đôi được 
+    1.Tìm vị trí chính giữa mảng
+    2.sắp xếp mảng thứ nhất (từ mid đến left)
+    3.Sắp xếp mảng thứ hai (từ mid+1 đến right)
+    4.Merge 2 mảng đã sắp xếp lại với nhau 
+
+-Độ phức tạp: nlog(n)

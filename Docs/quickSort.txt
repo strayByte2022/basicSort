@@ -1,0 +1,6 @@
+- Tên tiếng Việt: Sắp xếp nhanh (mà thật ra là đéo nhanh lắm)
+- Ý tưởng:
+    1. Chọn 1 pivot, thường là phần tử chính giữa mảng 
+    2. Sắp xếp phần tử bên trái nhỏ hơn pivot
+    3. Sắp xếp phần tử bên phải lớn hơn pivot
+- Độ phức tạp: O(nlogn)

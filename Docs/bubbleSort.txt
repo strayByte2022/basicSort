@@ -1,0 +1,8 @@
+- Tên tiếng việt: Sắp xếp nổi bọt
+
+- Cách thực hiện:
+    + Duyệt qua danh sách, so sánh 2 phần tử liên tiếp, nếu phần tử sau nhỏ hơn phần tử trước thì hoán đổi chỗ 2 phần tử đó.
+    + Sau mỗi lần duyệt, phần tử lớn nhất sẽ nổi lên đầu danh sách.
+    + Lặp lại quá trình trên cho đến khi danh sách đã được sắp xếp.
+
+- Độ phức tạp: O(n^2)
